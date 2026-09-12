@@ -9,11 +9,11 @@ El diseño fue elaborado en modo oscuro con acentos de color neón (verde portal
 
 **1. Splash Screen**
 *(Muestra el portal interdimensional y la carga del universo)*
-![Splash Screen](rickymo.png)
+![Splash Screen](ricky.png)
 
 **2. Multiverse (Home)**
 *(Lista de personajes conocidos en la curva finita central)*
-![Home Screen](ricky.png)
+![Home Screen](rickymo.png)
 
 **3. Character Detail (Evil Morty)**
 *(Archivo de identidad con estado, especie y origen)*
